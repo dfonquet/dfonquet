@@ -1,27 +1,34 @@
--👋 Hi, I’m @dfonquet.
-- 👀 I’m interested in learn Go,Python,java,security,networks and cloud.  
-- 🌱 I'm currently learning Go/Python. 
-- 💞️ I am looking to collaborate in red Team:
-- 📫 How to contact me danielfonque@gmail.com                                 
-*******************************************************************************
-<!---
-dfonquet/dfonquet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-********************************************************************************************
+**********************************************************************************************************************************************************************
+I will tell you a little about myself, I am a big fan of Chinese novels and video games, I like to learn a lot of things and always be updated, I am a senior network and security engineer and I am currently entering the world of programming, API, cloud and automation.
+**********************************************************************************************************************************************************************
 
 
-![image](https://user-images.githubusercontent.com/55598243/209590483-202e694e-196d-4cd7-84a5-141491e7b764.png)
 
-*********************************************************************************************
+💻 I am currently working as a network and security engineer at majorel in the WFH mode.
+
+📰 I will start blogging my current learnings from the technologies I am taking and will post this on my Github.
 
 
 
 
-This repository is used as a knowledge blog for myself on my way to different languages and technologies.
-
-The aim of the repository is that other users can get hold of this documentation and learn more respectively, as well as being able to share, correct and copy the content it contains.
 
 
 
-Follow me on the path! 😎
+ 
+<b>Skills</b>
+
+
+<b>Cloud Provider</b>: AWS.
+
+<b>Networking&Wireless</b>: Cisco,Juniper,aruba
+
+<b>Security</b>:fortigate,Checkpoint,sophos,kali
+
+GNU/Linux and Windows system administration 
+
+
+
+
+💬 Contact
+
+💌 danielfonquegmail.com
