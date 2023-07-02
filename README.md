@@ -2,7 +2,7 @@
 
 <h1><strong>Hi there! My name is Daniel 🖐</strong></h1>
 
-I am a senior network and security engineer with a passion for Chinese novels and video games. I am constantly learning and staying up-to-date with the latest technologies, including programming, APIs, cloud computing, and automation.
+<p>I am a senior network and security engineer with a passion for Chinese novels and video games. I specialize in networking technologies such as ISP,MPLS,SR ect, as well as defensive and offensive security techniques. I am constantly learning and staying up-to-date with the latest technologies, including programming, APIs, cloud computing, and automation.</p>
 
 * 💻 Currently, I work as a network and security engineer.
 
