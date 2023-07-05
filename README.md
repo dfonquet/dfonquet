@@ -18,7 +18,12 @@
 💌 Email: daniel@daftiel.com
 
 
+[![](https://visitcount.itsvg.in/api?id=daftiel&label=Profile%20Views&color=7&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
 Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
+
+
 
 
 <a href="https://www.linkedin.com/in/danielfonquetorres-188851a2/" target="_blank" rel="noopener noreferrer" style="background-color: #0077B5; color: white; border: none; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
