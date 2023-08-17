@@ -17,8 +17,9 @@
 
 💌 Email: daniel@daftiel.com
 
+<h1><strong>Views</strong></h1>
 
-[![](https://visitcount.itsvg.in/api?id=daftiel&label=Profile%20Views&color=7&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=daftiel&label=Profile%20Views&color=4&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 
 Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
