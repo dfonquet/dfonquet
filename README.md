@@ -1,43 +1,217 @@
+# Hi there, I'm Daniel Fonque 👋
 
+### Senior Network Engineer | Service Provider, Cloud & Network Architecture
 
-<h1><strong>Hi there! My name is Daniel 🖐</strong></h1>
+I am a **Senior Network Engineer / Network Consulting Engineer** focused on **Service Provider, IP/MPLS, SD-WAN, security, cloud networking, automation, and network architecture**.
 
-<p>I am a senior network and security engineer with a passion for Chinese novels and video games. I specialize in networking technologies such as ISP,MPLS,SR ect, as well as defensive and offensive security techniques. I am constantly learning and staying up-to-date with the latest technologies, including programming, APIs, cloud computing, and automation.</p>
+My current journey is centered on **CCIE Service Provider**, while also preparing for **JNCIE-SP** and **CCDE**. I am also expanding into **automation, APIs, Infrastructure as Code, AI-assisted network engineering, Service Provider design, and cloud design**.
 
-* 💻 Currently, I work as a network and security engineer.
+---
 
-* 📰 I am excited to start sharing my current learnings and experiences through my blog on my GitHub page.
+## 🏆 Certifications & Community
+
+* **CCNP Service Provider**
+* **JNCIP-SP**
+* **JNCIS-SP**
+* **JNCIA-Junos**
+* **CCNA**
+* **Fortinet NSE 4**
+* **Silver IPv6 Specialist**
+* **Cisco Champion 2025**
+* **Juniper Technical Champion – Legendary Champion 2026**
+
+🎯 **Currently pursuing CCIE Service Provider, JNCIE-SP, and CCDE**
+
+---
 
 <details>
-<summary>🚀 The outline of my website project is as follows:</summary>
+<summary><strong>🌐 Networking & Service Provider</strong></summary>
 
-Dive into the immersive experience of my website! Take a firsthand journey through innovation and creativity by exploring the live version.
+<br>
 
-🌍 **[Launch the Web! ](https://dfonquet.github.io/TechVortexHub/My_Website/daftiel.html#)**
+* IP/MPLS Architecture
+* Service Provider Design
+* MPLS L3VPN / L2VPN
+* Inter-AS MPLS VPN
+* Segment Routing MPLS
+* RSVP-TE / DS-TE
+* TI-LFA / Fast Reroute
+* BGP / MP-BGP
+* IS-IS / OSPF
+* IPv4 / IPv6
+* Multicast / MVPN
+* SD-WAN
+* Network Security
+* Fortinet / Cisco / Juniper / Aruba
+* Control Plane and Forwarding Plane Analysis
 
 </details>
+
+---
+
+<details>
+<summary><strong>☁️ Cloud & Hybrid Infrastructure</strong></summary>
+
+<br>
+
+* Cloud Network Design
+* AWS Networking
+* VPC Architecture
+* Transit Gateway
+* Hybrid Cloud Connectivity
+* VPN / IPsec
+* Network Segmentation
+* Cloud Security Concepts
+* Enterprise WAN Integration
+
 </details>
 
-<h1><strong>Skills</strong></h1> <details> <summary><strong>Cloud Provider:</strong></summary> <ul> <li>Amazon Web Services (AWS): EC2, S3, Lambda, DynamoDB, CloudFormation, CloudTrail, CloudWatch, etc.</li> </ul> </details> <details> <summary><strong>Networking & Wireless:</strong></summary> <ul> <li><details><summary><strong>Cisco Devices:</strong></summary> <ul> <li>Enterprise: Cisco Catalyst Switches, Cisco Nexus Switches, Cisco ISR Routers, etc.</li> <li>Service Provider: Cisco ASR Routers, Cisco CRS Routers, Cisco Nexus Switches, etc.</li> <li>Data Center: Cisco UCS Servers, Cisco Nexus Switches, Cisco MDS Storage Switches, etc.</li> <li>Wireless: Cisco Aironet Access Points, Cisco Wireless LAN Controllers, etc.</li> </ul> </details></li> <li><details><summary><strong>Juniper Devices:</strong></summary> <ul> <li>Enterprise: Juniper EX Series Switches, Juniper QFX Series Switches, Juniper SRX Series Firewalls, etc.</li> <li>Service Provider: Juniper MX Series Routers, Juniper PTX Series Routers, Juniper ACX Series Routers, etc.</li> <li>Data Center: Juniper QFX Series Switches, Juniper EX Series Switches, Juniper SRX Series Firewalls, etc.</li> <li>Wireless: Juniper Mist Access Points, Juniper Mist Cloud Wireless LAN, etc.</li> </ul> </details></li> <li><details><summary><strong>Aruba Devices:</strong></summary> <ul> <li>Access Points: Aruba AP-515, Aruba AP-535, Aruba AP-555, etc.</li> <li>Controllers: Aruba 7200 Series Mobility Controllers, Aruba 7000 Series Cloud Services Controllers, etc.</li> <li>Switches: Aruba 2930M Switch Series, Aruba 3810M Switch Series, Aruba 8400 Switch Series, etc.</li> <li>Wireless: Aruba Instant Access Points, Aruba Mobility Access Switches, etc.</li> </ul> </details></li> <li><details><summary><strong>Layer 2:</strong></summary> <ul> <li>Cisco: Spanning Tree Protocol (STP), Virtual LAN (VLAN), EtherChannel, Link Aggregation Control Protocol (LACP), etc.</li> <li>Juniper: Spanning Tree Protocol (STP), Virtual LAN (VLAN), Link Aggregation Groups (LAG), etc.</li> <li>Aruba: Virtual LAN (VLAN), Link Aggregation Groups (LAG), Spanning Tree Protocol (STP), etc.</li> </ul> </details></li> <li><details><summary><strong>Layer 3:</strong></summary> <ul> <li>Interior Gateway Protocols (IGP): OSPF, EIGRP, IS-IS, EBGP, IBGP</li> <li>IPv4 Addressing: Subnetting, VLSM, CIDR</li> <li>IPv6 Addressing: Address Types, Address Format, Address Allocation</li> </ul> </details></li> </ul> </details> <details> <summary><strong>Information Security:</strong></summary> <ul> <li>Offensive Security: Penetration Testing, Ethical Hacking, Red Teaming, Social Engineering, etc.</li> <li>Defensive Security: Firewalls, Intrusion Detection/Prevention Systems (IDS/IPS), Security Information and Event Management (SIEM) tools, etc.</li> <li>Security Frameworks: NIST Cybersecurity Framework, ISO 27001, CIS Controls, etc.</li> <li>Security Compliance: Payment Card Industry Data Security Standard (PCI DSS), Health Insurance Portability and Accountability Act (HIPAA), General Data Protection Regulation (GDPR), etc.</li> <li>Security Tools: Metasploit Framework, Burp Suite, Nessus, Wireshark, etc.</li> </ul> </details> <details> <summary><strong>System Administration:</strong></summary> <ul> <li>Linux: Ubuntu, CentOS, Red Hat, Debian, etc.</li> <li>Windows Server: Active Directory, DNS, DHCP, Hyper-V, etc.</li> <li>Configuration Management tools: Ansible, Chef, Puppet, etc.</li> <li>Virtualization platforms: VMware, Hyper-V, VirtualBox, etc.</li> </ul> </details> <details> <summary><strong>Service Provider:</strong></summary> <ul> <li>Internet Service Provider (ISP): Fiber Optic, Cable, DSL, MPLS, etc.</li> <li>Web Hosting Provider: Shared Hosting, Dedicated Hosting, Virtual Private Servers (VPS), Cloud Hosting, etc.</li> <li>Domain Name Registrar: Domain Name Registration, Domain Name Transfer, Domain Name Renewal, etc.</li> <li>Segment Routing: Cisco IOS XR, Juniper Junos, etc.</li> <li>Automation: Network Automation, Service Automation, etc.</li> <li>Service Provider Design: IP/MPLS Core, Metro Ethernet, Broadband Access, etc.</li> </ul> </details> <details> <summary><strong>Programming:</strong></summary> <ul> <li>Python </ul> </details>
+---
 
+<details>
+<summary><strong>🤖 Automation, APIs & AI</strong></summary>
 
-<h1><strong>Contact</strong></h1>
+<br>
 
-💌 Email: danielfonque@gmail.com
+* Python
+* REST APIs
+* Terraform
+* Ansible
+* YAML / JSON
+* Git / GitHub
+* CI/CD Concepts
+* Infrastructure as Code
+* Network Programmability
+* AI-assisted Network Engineering
+* Lab Documentation and Knowledge Management
 
-💌 Email: daniel@daftiel.com
+</details>
 
-<h1><strong>Views</strong></h1>
+---
 
-[![](https://visitcount.itsvg.in/api?id=daftiel&label=Profile%20Views&color=4&icon=4&pretty=false)](https://visitcount.itsvg.in)
+<details>
+<summary><strong>🧪 My Service Provider Lab</strong></summary>
 
+<br>
 
-Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
+A significant part of my learning process is based on building and breaking my own Service Provider environments.
 
+My current virtual lab includes a multi-router **IP/MPLS Service Provider architecture** built primarily with Cisco IOS XR and IOS XE.
 
+Current lab topics include:
 
+* IS-IS Level-2 Core
+* IPv4 / IPv6 Dual Stack
+* MPLS / Segment Routing MPLS
+* TI-LFA / BFD
+* MP-BGP
+* VPNv4 / VPNv6
+* MPLS L3VPN / L2VPN
+* Route Reflectors
+* BGP-LS / ORR
+* RSVP-TE / DS-TE
+* Multicast / MVPN
+* Inter-AS MPLS VPN
+
+The objective of my lab is not simply to reproduce configurations, but to understand how the network behaves when topology, control plane, or forwarding conditions change.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📂 Selected Repositories</strong></summary>
+
+<br>
+
+* [`ccie-labs`](https://github.com/dfonquet/ccie-labs) — Practice scenarios, notes, and structured labs for advanced Service Provider topics.
+* [`MPLS_LAB`](https://github.com/dfonquet/MPLS_LAB) — MPLS implementation and Service Provider fundamentals.
+* [`Ipv6_project_calculator`](https://github.com/dfonquet/Ipv6_project_calculator) — Python-based IPv6 project utility.
+* [`TechVortexHub`](https://github.com/dfonquet/TechVortexHub) — Personal experimentation and web project work.
+
+</details>
+
+---
+
+<details>
+<summary><strong>🧠 Engineering Philosophy</strong></summary>
+
+<br>
+
+I believe modern network engineering requires both **deep protocol knowledge** and **infrastructure programmability**.
+
+Protocols still matter.
+The control plane still matters.
+The forwarding plane still matters.
+
+But modern networks also require **automation, APIs, telemetry, Infrastructure as Code, cloud design, and AI-assisted workflows**.
+
+My goal is to combine:
+
+### Deep Network Engineering + Service Provider Design + Cloud Design + Automation + AI
+
+</details>
+
+---
+
+<details>
+<summary><strong>📚 Current Journey</strong></summary>
+
+<br>
+
+```text
+CCIE Service Provider
+        │
+        ├── Advanced Routing
+        ├── MPLS & L3VPN
+        ├── Segment Routing
+        ├── Traffic Engineering
+        ├── Multicast
+        ├── Service Provider Design
+        ├── Cloud Design
+        ├── Network Automation
+        └── AI-assisted Network Engineering
+
+JNCIE-SP
+        │
+        └── Juniper Service Provider Architecture
+
+CCDE
+        │
+        └── Network Design and Architecture
+```
+
+</details>
+
+---
+
+## 🌎 Connect With Me
+
+* LinkedIn: [Daniel Fonque Torres](https://www.linkedin.com/in/danielfonquetorres-188851a2/)
+* Email: [danielfonque@gmail.com](mailto:danielfonque@gmail.com)
+* Email: [daniel@daftiel.com](mailto:daniel@daftiel.com)
+* Technical Website: [TechVortexHub](https://dfonquet.github.io/TechVortexHub/My_Website/daftiel.html)
+
+<br>
 
 <a href="https://www.linkedin.com/in/danielfonquetorres-188851a2/" target="_blank" rel="noopener noreferrer" style="background-color: #0077B5; color: white; border: none; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
    Follow me on LinkedIn
 </a>
 
+---
+
+## 👀 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=daftiel\&label=Profile%20Views\&color=4\&icon=4\&pretty=false)](https://visitcount.itsvg.in)
+
+---
+
+## 📝 Final Note
+
+Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
+
+> “Always learning, always building.”
+
+> *Build the lab. Break the network. Understand the protocol. Automate the workflow.*
+
+> *The future of networking belongs to engineers who understand the packets, the protocols, the architecture, and the code behind the infrastructure.*
