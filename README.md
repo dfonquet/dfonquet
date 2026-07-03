@@ -202,7 +202,7 @@ CCDE
 
 ## 👀 Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=daftiel\&label=Profile%20Views\&color=4\&icon=4\&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=dfonquet&label=PROFILE+VIEWS&style=for-the-badge)
 
 ---
 
