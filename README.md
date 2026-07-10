@@ -12,7 +12,6 @@ I am a **Senior Network Engineer / Network Consulting Engineer** focused on **Se
 
 My current journey is centered on **CCIE Service Provider**, while also preparing for **JNCIE-SP** and **CCDE**. I am also expanding into automation, APIs, Infrastructure as Code, AI-assisted network engineering, Service Provider design, and cloud design.
 
-## 🛠️ Tech Stack & Tools
 
 ## 🛠️ Tech Stack & Tools
 
@@ -101,14 +100,33 @@ Core domains and hands-on focus:
 
 ## 🏆 Certifications & Community
 
-[<img src="https://images.credly.com/size/340x340/images/e3ca7cd2-3de6-402d-9f66-fe4f7f0b9c34/cisco_ccnp_serviceprovider.png" alt="CCNP Service Provider" width="110"/>](https://www.credly.com/badges/bceeaa4e-8da1-407e-8c1b-3f6a7273b348/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/b246fb42-4e56-4813-85bf-43a6819d322a/blob" alt="CCS-SPC" width="110"/>](https://www.credly.com/badges/90455051-e449-4703-8d8f-cfbc69a2088c/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/e080572f-bcf4-4c38-8e24-3f4a6fc47dce/blob" alt="CCS-SPVVPN" width="110"/>](https://www.credly.com/badges/a1692927-b2bc-4c10-8785-9b9a338c842a/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/d58c3b30-2817-4b3f-b2eb-fd3b9e0c5a66/blob" alt="Champion-2025" width="110"/>](https://www.credly.com/badges/95002873-8f9d-499b-9440-0a4ac097c7fc/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/796dc4a3-4a20-4b76-aa53-75a285b5d58e/image.png" alt="Legendary-2026" width="110"/>](https://www.credly.com/badges/fba7fe44-602f-4493-8bae-97f51e191166/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/57dae551-be95-4d64-a29c-947aa1ff7090/L_03_prof_JNCIP-SP.png" alt="JNCIP-SP" width="110"/>](https://www.credly.com/badges/a11d7cc4-d538-4c6f-80ee-36138c571a8a/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/d1abdf09-8a5b-4caf-8d2c-ea9538f26fdd/L_02_specl_JNCIS-SP.png" alt="JNCIS-SP" width="110"/>](https://www.credly.com/badges/612aa575-21a4-44ea-80dc-6f5763a8c2c5/linked_in_profile)
-[<img src="https://images.credly.com/size/340x340/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" alt="JNCIA-Junos" width="110"/>](https://www.credly.com/badges/53d770e8-edcf-4d02-8cac-83f574de4807/linked_in_profile)
+<p align="center">
+  <a href="https://www.credly.com/badges/bceeaa4e-8da1-407e-8c1b-3f6a7273b348/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/e3ca7cd2-3de6-402d-9f66-fe4f7f0b9c34/cisco_ccnp_serviceprovider.png" alt="CCNP Service Provider" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/90455051-e449-4703-8d8f-cfbc69a2088c/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/b246fb42-4e56-4813-85bf-43a6819d322a/blob" alt="CCS-SPC" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/a1692927-b2bc-4c10-8785-9b9a338c842a/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/e080572f-bcf4-4c38-8e24-3f4a6fc47dce/blob" alt="CCS-SPVVPN" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/95002873-8f9d-499b-9440-0a4ac097c7fc/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/d58c3b30-2817-4b3f-b2eb-fd3b9e0c5a66/blob" alt="Champion-2025" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/fba7fe44-602f-4493-8bae-97f51e191166/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/796dc4a3-4a20-4b76-aa53-75a285b5d58e/image.png" alt="Legendary-2026" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/a11d7cc4-d538-4c6f-80ee-36138c571a8a/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/57dae551-be95-4d64-a29c-947aa1ff7090/L_03_prof_JNCIP-SP.png" alt="JNCIP-SP" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/612aa575-21a4-44ea-80dc-6f5763a8c2c5/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/d1abdf09-8a5b-4caf-8d2c-ea9538f26fdd/L_02_specl_JNCIS-SP.png" alt="JNCIS-SP" width="88" />
+  </a>
+  <a href="https://www.credly.com/badges/53d770e8-edcf-4d02-8cac-83f574de4807/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" alt="JNCIA-Junos" width="88" />
+  </a>
+</p>
+
 
 ## 🌎 Connect With Me
 
