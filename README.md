@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there, I'm Daniel Fonque 👋
@@ -15,6 +14,8 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 
 ## 🛠️ Tech Stack & Tools
 
+## 🛠️ Tech Stack & Tools
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Juniper Junos](https://img.shields.io/badge/Juniper_Junos-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +24,80 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-0a0e1a?style=for-the-badge)
 ![Network Automation](https://img.shields.io/badge/Network_Automation-0f766e?style=for-the-badge&logo=ansible&logoColor=white)
 ![AI-Assisted Engineering](https://img.shields.io/badge/AI_Assisted_Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+
+Core domains and hands-on focus:
+
+<details>
+<summary><strong>🌐 Networking & Service Provider</strong></summary>
+
+<br>
+
+- IP/MPLS Architecture
+- Service Provider Design
+- MPLS L3VPN / L2VPN
+- Inter-AS MPLS VPN
+- Segment Routing MPLS
+- RSVP-TE / DS-TE
+- TI-LFA / Fast Reroute
+- BGP / MP-BGP
+- IS-IS / OSPF
+- IPv4 / IPv6
+- Multicast / MVPN
+- SD-WAN
+- Network Security
+- Fortinet / Cisco / Juniper / Aruba
+- Control Plane and Forwarding Plane Analysis
+
+</details>
+
+<details>
+<summary><strong>☁️ Cloud & Hybrid Infrastructure</strong></summary>
+
+<br>
+
+- Cloud Network Design
+- AWS Networking
+- VPC Architecture
+- Transit Gateway
+- Hybrid Cloud Connectivity
+- VPN / IPsec
+- Network Segmentation
+- Cloud Security Concepts
+- Enterprise WAN Integration
+
+</details>
+
+<details>
+<summary><strong>🤖 Automation, APIs & AI</strong></summary>
+
+<br>
+
+- Python
+- REST APIs
+- Terraform
+- Ansible
+- YAML / JSON
+- Git / GitHub
+- CI/CD Concepts
+- Infrastructure as Code
+- Network Programmability
+- AI-assisted Network Engineering
+- Lab Documentation and Knowledge Management
+
+</details>
+
+<details>
+<summary><strong>🧪 My Service Provider Lab</strong></summary>
+
+<br>
+
+- EVE-NG based lab environment
+- Multi-vendor practice with Cisco and Juniper
+- MPLS, L3VPN, Segment Routing, Multicast, and BGP-focused scenarios
+- Protocol validation, troubleshooting, and design testing
+- Ongoing lab work aligned with CCIE SP and JNCIE-SP preparation
+
+</details>
 
 ## 🏆 Certifications & Community
 
