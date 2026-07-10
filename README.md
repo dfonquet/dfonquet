@@ -41,14 +41,16 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 - Inter-AS MPLS VPN
 - Segment Routing MPLS
 - RSVP-TE / DS-TE
+- SRv6
 - TI-LFA / Fast Reroute
 - BGP / MP-BGP
 - IS-IS / OSPF
 - IPv4 / IPv6
 - Multicast / MVPN
 - SD-WAN
+- Wireless
 - Network Security
-- Fortinet / Cisco / Juniper / Aruba
+- Fortinet / Cisco / Juniper / Aruba / Meraki
 - Control Plane and Forwarding Plane Analysis
 
 </details>
@@ -98,7 +100,7 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 - Multi-vendor practice with Cisco and Juniper
 - MPLS, L3VPN, Segment Routing, Multicast, and BGP-focused scenarios
 - Protocol validation, troubleshooting, and design testing
-- Ongoing lab work aligned with CCIE SP and JNCIE-SP preparation
+- Ongoing lab work aligned with CCIE SP, JNCIE-SP, and CCDE preparation
 
 </details>
 
