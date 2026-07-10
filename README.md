@@ -128,6 +128,12 @@ Core domains and hands-on focus:
 </p>
 
 
+## 📊 GitHub Stats :
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dfonquet&theme=dark&hide_border=true" height="165" alt="GitHub streak" />
+</p>
 
 ## 🌎 Connect With Me
 
