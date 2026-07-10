@@ -13,7 +13,7 @@ I am a **Senior Network Engineer / Network Consulting Engineer** focused on **Se
 My current journey is centered on **CCIE Service Provider**, while also preparing for **JNCIE-SP** and **CCDE**. I am also expanding into automation, APIs, Infrastructure as Code, AI-assisted network engineering, Service Provider design, and cloud design.
 
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Juniper Junos](https://img.shields.io/badge/Juniper_Junos-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white)
@@ -27,7 +27,7 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 Core domains and hands-on focus:
 
 <details>
-<summary><strong>🌐 Networking & Service Provider</strong></summary>
+<summary><strong> Networking & Service Provider</strong></summary>
 
 <br>
 
@@ -50,7 +50,7 @@ Core domains and hands-on focus:
 </details>
 
 <details>
-<summary><strong>☁️ Cloud & Hybrid Infrastructure</strong></summary>
+<summary><strong> Cloud & Hybrid Infrastructure</strong></summary>
 
 <br>
 
@@ -67,7 +67,7 @@ Core domains and hands-on focus:
 </details>
 
 <details>
-<summary><strong>🤖 Automation, APIs & AI</strong></summary>
+<summary><strong> Automation, APIs & AI</strong></summary>
 
 <br>
 
@@ -86,7 +86,7 @@ Core domains and hands-on focus:
 </details>
 
 <details>
-<summary><strong>🧪 My Service Provider Lab</strong></summary>
+<summary><strong>  My Service Provider Lab</strong></summary>
 
 <br>
 
@@ -98,7 +98,7 @@ Core domains and hands-on focus:
 
 </details>
 
-## 🏆 Certifications & Community
+## Certifications & Community
 
 <p align="center">
   <a href="https://www.credly.com/badges/bceeaa4e-8da1-407e-8c1b-3f6a7273b348/linked_in_profile">
@@ -128,14 +128,14 @@ Core domains and hands-on focus:
 </p>
 
 
-## 📊 GitHub Stats :
+## GitHub Activity
 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dfonquet&theme=dark&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
-## 🌎 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielfonquetorres-188851a2/">
@@ -153,7 +153,7 @@ Core domains and hands-on focus:
 
 
 
-## 📝 Final Note
+## Final Note
 
 Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
 
