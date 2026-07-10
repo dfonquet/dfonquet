@@ -154,6 +154,14 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
   <img src="https://streak-stats.demolab.com?user=dfonquet&theme=dark&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
+## 🗂️ Featured Projects
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Implementación de Cisco MPLS — L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
+| [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | Calculadora de subnetting IPv6 en Python | Python |
+| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Sitio web personal — portafolio técnico y blog | HTML, CSS, GitHub Pages |
+
 ## Connect With Me
 
 <p align="center">
