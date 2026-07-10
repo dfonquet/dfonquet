@@ -128,13 +128,12 @@ Core domains and hands-on focus:
 </p>
 
 
+
 ## 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Fonque_Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfonquetorres-188851a2/)
-[![Website](https://img.shields.io/badge/Website-TechVortexHub-0fd4ee?style=for-the-badge&logo=githubpages&logoColor=black)](https://dfonquet.github.io/TechVortexHub/My_Website/daftiel.html)
-[![Email](https://img.shields.io/badge/Email-danielfonque@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielfonque@gmail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Fonque_Torres-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/danielfonquetorres-188851a2/)
+[![Website](https://img.shields.io/badge/Website-TechVortexHub-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black)](https://dfonquet.github.io/TechVortexHub/My_Website/daftiel.html)
+[![Gmail](https://img.shields.io/badge/Gmail-danielfonque%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielfonque@gmail.com)
 
 
 
