@@ -15,6 +15,8 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 
 ## Tech Stack & Tools
 
+<p align="center">
+
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Juniper Junos](https://img.shields.io/badge/Juniper_Junos-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,7 +26,9 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 ![Network Automation](https://img.shields.io/badge/Network_Automation-0f766e?style=for-the-badge&logo=ansible&logoColor=white)
 ![AI-Assisted Engineering](https://img.shields.io/badge/AI_Assisted_Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 
-Core domains and hands-on focus:
+</p>
+
+## Core domains and hands-on focus:
 
 <details>
 <summary><strong> Networking & Service Provider</strong></summary>
@@ -99,6 +103,8 @@ Core domains and hands-on focus:
 </details>
 
 ## Certifications & Community
+
+
 
 <p align="center">
 
