@@ -158,9 +158,9 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 
 | Project | Description | Technologies |
 |---------|-------------|---------------|
-| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
+| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation  L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
 | [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | IPv6 subnetting calculator built in Python | Python |
-| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website — technical portfolio and blog | HTML, CSS, GitHub Pages |
+| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website   technical portfolio and blog | HTML, CSS, GitHub Pages |
 | [📚 LexiFlash](https://github.com/dfonquet/LexiFlash) | Browser extension that shows concise Spanish word definitions while you browse | JavaScript, Chrome Extension, Manifest V3 |
 
 ## Connect With Me
@@ -171,7 +171,7 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
   </a>
   &nbsp;
   <a href="https://dfonquet.github.io/TechVortexHub/My_Website/daftiel.html">
-    <img src="https://img.shields.io/badge/🌐_Website-TechVortexHub-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Website-TechVortexHub-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:danielfonque@gmail.com">
