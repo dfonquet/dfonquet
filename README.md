@@ -149,18 +149,28 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 
 ## GitHub Activity
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dfonquet&theme=dark&hide_border=true"
+    height="165"
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dfonquet&theme=dark&hide_border=true" height="165" alt="GitHub streak" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dfonquet&theme=github-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ## 🗂️ Featured Projects
 
 | Project | Description | Technologies |
-|---------|-------------|---------------|
-| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation  L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
+|---------|-------------|--------------|
+| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
 | [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | IPv6 subnetting calculator built in Python | Python |
-| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website   technical portfolio and blog | HTML, CSS, GitHub Pages |
+| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website — technical portfolio and blog | HTML, CSS, GitHub Pages |
 | [📚 LexiFlash](https://github.com/dfonquet/LexiFlash) | Browser extension that shows concise Spanish word definitions while you browse | JavaScript, Chrome Extension, Manifest V3 |
 
 ## Connect With Me
