@@ -7,7 +7,7 @@
 > Building CI/CD-driven automation for Service Provider networks — IOS XR, MPLS, Segment Routing, and controlled deployment workflows.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dfonquet&label=PROFILE+VIEWS&style=for-the-badge)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dfonquet&label=REPOS&query=public_repos&style=for-the-badge&color=informational)
+
 ---
 </div>
 
