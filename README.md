@@ -4,14 +4,16 @@
 
 ### Senior Network Engineer | Service Provider · Cloud · Network Architecture
 
+> Building CI/CD-driven automation for Service Provider networks — IOS XR, MPLS, Segment Routing, and controlled deployment workflows.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=dfonquet&label=PROFILE+VIEWS&style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dfonquet&label=REPOS&query=public_repos&style=for-the-badge&color=informational)
 ---
 </div>
 
 I am a **Senior Network Engineer / Network Consulting Engineer** focused on **Service Provider, IP/MPLS, SD-WAN, security, cloud networking, network automation, and network architecture**.
 
-My current journey is centered on **CCIE Service Provider**, while also preparing for **JNCIE-SP** and **CCDE**. I am also expanding into automation, APIs, Infrastructure as Code, AI-assisted network engineering, Service Provider design, and cloud design.
-
+My current journey is centered on the **CCIE Service Provider certification**, while also preparing for **JNCIE-SP** and **CCDE**. I am also expanding into automation, APIs, Infrastructure as Code, AI-assisted network engineering, Service Provider design, and cloud design.
 
 ## Tech Stack & Tools
 
@@ -32,7 +34,6 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 
 <details>
 <summary><strong> Networking & Service Provider</strong></summary>
-
 <br>
 
 - IP/MPLS Architecture
@@ -52,12 +53,10 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 - Network Security
 - Fortinet / Cisco / Juniper / Aruba / Meraki
 - Control Plane and Forwarding Plane Analysis
-
 </details>
 
 <details>
 <summary><strong> Cloud & Hybrid Infrastructure</strong></summary>
-
 <br>
 
 - Cloud Network Design
@@ -69,12 +68,10 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 - Network Segmentation
 - Cloud Security Concepts
 - Enterprise WAN Integration
-
 </details>
 
 <details>
 <summary><strong> Automation, APIs & AI</strong></summary>
-
 <br>
 
 - Python
@@ -88,12 +85,10 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 - Network Programmability
 - AI-assisted Network Engineering
 - Lab Documentation and Knowledge Management
-
 </details>
 
 <details>
-<summary><strong>  My Service Provider Lab</strong></summary>
-
+<summary><strong> My Service Provider Lab</strong></summary>
 <br>
 
 - EVE-NG based lab environment
@@ -101,11 +96,9 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 - MPLS, L3VPN, Segment Routing, Multicast, and BGP-focused scenarios
 - Protocol validation, troubleshooting, and design testing
 - Ongoing lab work aligned with CCIE SP, JNCIE-SP, and CCDE preparation
-
 </details>
 
 ## Certifications & Community
-
 
 
 <p align="center">
@@ -168,8 +161,8 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
 | [🤖 CCIE-SP-NetOps-Automation](https://github.com/dfonquet/CCIE-SP-NetOps-Automation) | NetOps automation repo for a Cisco IOS XR CCIE SP lab — config parsing, templating, Ansible workflows, pyATS validation, and change evidence | Python, Ansible, Jinja2, pyATS, Cisco IOS XR |
+| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
 | [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | IPv6 subnetting calculator built in Python | Python |
 | [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website — technical portfolio and blog | HTML, CSS, GitHub Pages |
 | [📚 LexiFlash](https://github.com/dfonquet/LexiFlash) | Browser extension that shows concise Spanish word definitions while you browse | JavaScript, Chrome Extension, Manifest V3 |
@@ -189,14 +182,11 @@ My current journey is centered on **CCIE Service Provider**, while also preparin
     <img src="https://img.shields.io/badge/Gmail-danielfonque%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-
 ## Final Note
 
 Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
 
-> “Always learning, always building.”
+> "Always learning, always building."
 
 > *Build the lab. Break the network. Understand the protocol. Automate the workflow.*
 
