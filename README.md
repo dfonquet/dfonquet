@@ -157,7 +157,7 @@ My current journey is centered on the **CCIE Service Provider certification**, w
   />
 </p>
 
-## 🗂️ Featured Projects
+## 🗂️ Featured Network & Automation Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -185,7 +185,7 @@ My current journey is centered on the **CCIE Service Provider certification**, w
 </p>
 ## Final Note
 
-Thank you for visiting my GitHub profile! I hope you find something interesting on my page. If you have any questions or just want to say hi, feel free to shoot me an email. Have a great day!
+Thanks for visiting my GitHub profile. This space documents my work across Service Provider networking, automation, architecture, and hands-on lab engineering.
 
 > "Always learning, always building."
 
