@@ -161,11 +161,12 @@ My current journey is centered on the **CCIE Service Provider certification**, w
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [🤖 CCIE-SP-NetOps-Automation](https://github.com/dfonquet/CCIE-SP-NetOps-Automation) | NetOps automation repo for a Cisco IOS XR CCIE SP lab — config parsing, templating, Ansible workflows, pyATS validation, and change evidence | Python, Ansible, Jinja2, pyATS, Cisco IOS XR |
-| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP | Cisco IOS XR, MPLS, BGP |
-| [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | IPv6 subnetting calculator built in Python | Python |
-| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website — technical portfolio and blog | HTML, CSS, GitHub Pages |
-| [📚 LexiFlash](https://github.com/dfonquet/LexiFlash) | Browser extension that shows concise Spanish word definitions while you browse | JavaScript, Chrome Extension, Manifest V3 |
+| [🚀 ccie-sp-master-lab](https://github.com/dfonquet/ccie-sp-master-lab) | Reproducible 30-node CCIE Service Provider v5.1 lab with XRd, IOL-XE, Containerlab, phased configurations, multi-profile design, and automation-first workflows. | Python, Containerlab, Cisco IOS XRd, IOL-XE, MPLS, Segment Routing, Ansible, pyATS |
+| [🤖 CCIE-SP-NetOps-Automation](https://github.com/dfonquet/CCIE-SP-NetOps-Automation) | Standalone NetOps automation repo for a Cisco IOS XR CCIE SP lab — config parsing, topology facts, Jinja2 templates, Ansible workflows, pyATS validation, and CRQ evidence. | Python, Ansible, Jinja2, pyATS, Cisco IOS XR |
+| [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP. | Cisco IOS XR, MPLS, BGP |
+| [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | IPv6 subnetting calculator built in Python. | Python |
+| [💻 TechVortexHub](https://github.com/dfonquet/TechVortexHub) | Personal website — technical portfolio and blog. | HTML, CSS, GitHub Pages |
+| [📚 LexiFlash](https://github.com/dfonquet/LexiFlash) | Browser extension that shows concise Spanish word definitions while you browse. | JavaScript, Chrome Extension, Manifest V3 |
 
 ## Connect With Me
 
