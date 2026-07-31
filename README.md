@@ -144,15 +144,16 @@ My current journey is centered on the **CCIE Service Provider certification**, w
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=dfonquet&theme=dark&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
+     src="https://github-readme-streak-stats.herokuapp.com?user=dfonquet&theme=dark&hide_border=true"
+  height="165"
+  alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=dfonquet&theme=github-dark&hide_border=true"
+    width="90%"
     alt="GitHub Activity Graph"
   />
 </p>
