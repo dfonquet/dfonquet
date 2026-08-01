@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Daniel Fonque 👋
+Hi there, I'm Daniel Fonque <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px" alt="Waving hand">
 
 ### Network Architect & Senior Network Engineer | Service Provider · Cloud · Network Architecture
 
