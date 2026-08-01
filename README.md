@@ -9,6 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dfonquet&label=PROFILE+VIEWS&style=for-the-badge)
 
 ---
+
 </div>
 
 I am a **Senior Network Engineer / Network Consulting Engineer** focused on **Service Provider, IP/MPLS, SD-WAN, security, cloud networking, network automation, and network architecture**.
@@ -25,8 +26,11 @@ My current journey is centered on the **CCIE Service Provider certification**, w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-0a0e1a?style=for-the-badge)
+![Containerlab](https://img.shields.io/badge/Containerlab-0f172a?style=for-the-badge&logo=docker&logoColor=white)
 ![Network Automation](https://img.shields.io/badge/Network_Automation-0f766e?style=for-the-badge&logo=ansible&logoColor=white)
 ![AI-Assisted Engineering](https://img.shields.io/badge/AI_Assisted_Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+
+</p>
 
 </p>
 
