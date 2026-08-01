@@ -163,6 +163,7 @@ My current journey is centered on the **CCIE Service Provider certification**, w
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [🚀 ccie-sp-master-lab](https://github.com/dfonquet/ccie-sp-master-lab) | Reproducible 30-node CCIE Service Provider v5.1 lab with XRd, IOL-XE, Containerlab, phased configurations, multi-profile design, and automation-first workflows. | Python, Containerlab, Cisco IOS XRd, IOL-XE, MPLS, Segment Routing, Ansible, pyATS |
+| [🦊 jncie-sp-master-lab](https://github.com/dfonquet/jncie-sp-master-lab) | Reproducible JNCIE-SP JPR-962 study lab with Juniper vMX, Containerlab, dual-stack IS-IS, multi-profile design (daily/optimized/master), and PyEZ-based runtime acceptance. | Python, Containerlab, Juniper vMX, Junos, IS-IS, PyEZ, NETCONF |
 | [🤖 CCIE-SP-NetOps-Automation](https://github.com/dfonquet/CCIE-SP-NetOps-Automation) | Standalone NetOps automation repo for a Cisco IOS XR CCIE SP lab — config parsing, topology facts, Jinja2 templates, Ansible workflows, pyATS validation, and CRQ evidence. | Python, Ansible, Jinja2, pyATS, Cisco IOS XR |
 | [🔀 MPLS_LAB](https://github.com/dfonquet/MPLS_LAB) | Cisco MPLS implementation — L3VPN, LDP, BGP. | Cisco IOS XR, MPLS, BGP |
 | [🌐 Ipv6_project_calculator](https://github.com/dfonquet/Ipv6_project_calculator) | IPv6 subnetting calculator built in Python. | Python |
@@ -184,6 +185,7 @@ My current journey is centered on the **CCIE Service Provider certification**, w
     <img src="https://img.shields.io/badge/Gmail-danielfonque%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ## Final Note
 
 Thanks for visiting my GitHub profile. This space documents my work across Service Provider networking, automation, architecture, and hands-on lab engineering.
