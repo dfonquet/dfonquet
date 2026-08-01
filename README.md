@@ -2,7 +2,7 @@
 
 # Hi there, I'm Daniel Fonque 👋
 
-### Senior Network Engineer | Service Provider · Cloud · Network Architecture
+### Network Architect & Senior Network Engineer | Service Provider · Cloud · Network Architecture
 
 > Building CI/CD-driven automation for Service Provider networks — IOS XR, MPLS, Segment Routing, and controlled deployment workflows.
 
@@ -11,6 +11,10 @@
 ---
 
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=84B135&center=true&vCenter=true&width=700&lines=Network+Architect+%26+Senior+Engineer;Service+Provider+%7C+Cloud+%7C+Architecture;CCIE+SP+%7C+JNCIE-SP+%7C+CCDE+Candidate;Build+the+lab.+Break+the+network.)](https://git.io/typing-svg)
+
+
 
 I am a **Senior Network Engineer / Network Consulting Engineer** focused on **Service Provider, IP/MPLS, SD-WAN, security, cloud networking, network automation, and network architecture**.
 
